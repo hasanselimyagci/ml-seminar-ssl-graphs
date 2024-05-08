@@ -22,7 +22,7 @@
 * Adversarial Learnable Augmenter
 
 <p align="center">
-    <img src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/tta.png">
+    <img src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/tta.jpg">
   </p>
 
 
