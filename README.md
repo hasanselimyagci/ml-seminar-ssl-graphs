@@ -31,5 +31,6 @@
 * GCL projector and MLP in augmenter initialization?
 
 ## References
-[GraphTTA](https://arxiv.org/abs/2208.09126 "Test Time Adaptation on Graph Neural Networks")
-[From Local Structures to Size Generalization in Graph Neural Networks](https://arxiv.org/abs/2010.08853)
+* [GraphTTA](https://arxiv.org/abs/2208.09126 "Test Time Adaptation on Graph Neural Networks")
+* [From Local Structures to Size Generalization in Graph Neural Networks](https://arxiv.org/abs/2010.08853)
+* [Automated Self-Supervised Learning for Graphs](https://arxiv.org/abs/2106.05470)
