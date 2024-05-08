@@ -21,6 +21,11 @@
 * Graph Pseudo-Positive Samples
 * Adversarial Learnable Augmenter
 
+<p align="center">
+    <img src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/tta.png">
+  </p>
+
+
 ## Performance Evaluation and Problems
 
 * Contrastive learning as self supervised task during testing improves test performance
