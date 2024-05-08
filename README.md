@@ -32,3 +32,4 @@
 
 ## References
 [GraphTTA](https://arxiv.org/abs/2208.09126 "Test Time Adaptation on Graph Neural Networks")
+[From Local Structures to Size Generalization in Graph Neural Networks](https://arxiv.org/abs/2010.08853)
