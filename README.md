@@ -12,6 +12,10 @@
 * Comparisons of SSL methods' performance among different domains (text, image and graphs)
 * OOD Generalization and SSL
 
+<p align="center">
+    <img width=400 height=200 src="https://github.com/hasanselimyagci/ml-seminar-ssl-graphs/blob/main/img/SizeGen.jpg">
+  </p>
+
 ## Related Works
 
 * Test Time Adaptation strategy
