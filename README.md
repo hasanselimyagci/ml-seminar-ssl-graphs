@@ -1,5 +1,7 @@
 # Self Supervised Learning for Graph Classification
 
+This study analyzes the performance and problems of self-supervised approach on the challenges of graph-based deep learning, focusing on graph classification task and generalization. Two proposed approaches, namely Graph Adversarial Pseudo Group Contrast (GAPGC) and a selfsupervised domain adaptation method for size generalization, are briefly introduced. GAPGC enhances the relevance between pretext and downstream tasks, while the self-supervised domain adaptation approach exploits the d-pattern characterization of local structures. Both have proven superior performance over state-of-theart methods. However, problems of limitations include assumptions on node and edge features, the need for domain knowledge, and access to the test distribution. Additionally, we present possible direction for exploring automated pretext task selection for different domains.
+
 ## Motivation
 
 * Social networks, Molecular sciences, Transportation, E-commerce
